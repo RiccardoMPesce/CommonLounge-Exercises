@@ -1,4 +1,4 @@
-# [CommonLounge](https://www.commonlounge.com/) solved problems
+# [CommonLounge](https://www.commonlounge.com/) Solved Problems
 
 * ### [Commonlounge Data Structures & Algorithms](./AlgDS)
 
