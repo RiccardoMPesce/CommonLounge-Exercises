@@ -9,3 +9,5 @@
 * ### [Commonlounge Machine Learning](./ML)
 
 * ### [Commonlounge Deep Learning](./DL)
+
+## Note: this repo is now discontinued and not updated anymore.
