@@ -32,7 +32,7 @@ def test_binary_search(n_test_cases, min_size=10, max_size=100):
 def main():
     array = sorted(random.sample(range(10000), 10000))
     print(binary_search(array, array[random.randint(0, len(array) - 1)]))
-    print(test_binary_search(20))
+    print(test_binary_search(2000))
 
 if __name__ == "__main__":
     main()
